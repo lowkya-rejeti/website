@@ -1,0 +1,17 @@
+h1
+{
+color:red;
+font-size:16px;
+}
+p
+{
+color:blue;
+font-size:16px;
+}
+button
+{
+background-color:orange;
+color:pink;
+border:none;
+cursor:pointer;
+}
